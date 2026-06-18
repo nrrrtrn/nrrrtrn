@@ -2,8 +2,8 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1obDBlOWgxYjk4MDc2bWd6Z2hrdXF3cXJnNTN6bjRvNjZ1YjNkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Svqdi36bJZKGs5Pscj/giphy.gif" width="40%" alt="banner"/>
   
   <h1>dev profile</h1>
-  <p> python<1C </p>
-  <p> flutter enthusiast from 🇷🇺</p>
+  <p> I hate java coding </p>
+  <p> random enthusiast from 🇷🇺</p>
 
   <img src="https://komarev.com/ghpvc/?username=nrrrtrn&label=PROFILE+VIEWS&style=flat-square&color=333333" alt="views"/>
 </div>
@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" alt="swift" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="dart" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/1C-FFFF00?style=flat-square&logo=enterprise&logoColor=red" alt="1C" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" alt="flutter" />
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" alt="kotlin" />
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="html" />
