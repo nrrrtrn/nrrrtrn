@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/vo4U3MvBD9AAAAAC/hvh.gif" width="40%" alt="banner"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1obDBlOWgxYjk4MDc2bWd6Z2hrdXF3cXJnNTN6bjRvNjZ1YjNkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Svqdi36bJZKGs5Pscj/giphy.gif" width="40%" alt="banner"/>
   
   <h1>dev profile</h1>
   <p> python<1C </p>
