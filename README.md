@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1obDBlOWgxYjk4MDc2bWd6Z2hrdXF3cXJnNTN6bjRvNjZ1YjNkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Svqdi36bJZKGs5Pscj/giphy.gif" width="40%" alt="banner"/>
   
-  <h1>dev profile</h1>
-  <p> I hate java coding </p>
-  <p> random enthusiast from 🇷🇺</p>
+  <h1>###</h1>
+  <p> What does freedom really mean, when demanded of you by a god? </p>
+  <p> enthusiast from 🇷🇺</p>
 
   <img src="https://komarev.com/ghpvc/?username=nrrrtrn&label=PROFILE+VIEWS&style=flat-square&color=333333" alt="views"/>
 </div>
